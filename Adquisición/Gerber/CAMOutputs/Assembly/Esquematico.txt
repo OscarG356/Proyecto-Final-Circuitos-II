@@ -1,0 +1,10 @@
+Partlist exported from C:/Users/oscar/Documents/Circuitos/Adquisición/Esquematico.sch at 14/11/2023 8:48 a. m.
+
+Qty Value  Device        Package Parts    Description                          POPULARITY SPICEPREFIX
+2          PINHD-1X2     1X02    JP1, JP3 PIN HEADER                           98                    
+1          PINHD-1X3     1X03    JP2      PIN HEADER                           92                    
+2   10k    R-US_0207/10  0207/10 R2, R3   RESISTOR, American symbol            36         R          
+1   2.2k   R-US_0207/10  0207/10 R1       RESISTOR, American symbol            36         R          
+1   33k    R-US_0207/10  0207/10 R4       RESISTOR, American symbol            36         R          
+1   4.7u   CPOL-USE3.5-8 E3,5-8  C1       POLARIZED CAPACITOR, American symbol 9          C          
+1   LM358N LM358N        DIL08   IC1      OP AMP also LM158; LM258; LM2904     7                     

@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2023-11-14T13:48:22Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Esquematico"
+        },
+        "Owner": "Oscar Gutierrez <oscar.gutierrezr@udea.edu.co>",
+        "Size": {
+            "X": 31.994656,
+            "Y": 20.621041
+        }
+    }
+}
