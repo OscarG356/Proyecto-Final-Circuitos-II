@@ -1,0 +1,7 @@
+Partlist exported from C:/Users/oscar/Documents/Circuitos/Comparadores/Comparadores.sch at 22/11/2023 4:10 p. m.
+
+Qty Value  Device     Package  Parts                        Description    POPULARITY SPICEMODEL SPICEPREFIXL
+6          PINHD-1X1  1X01     JP2, JP4, JP5, JP6, JP7, JP8 PIN HEADER     64                                
+1          PINHD-1X2  1X02     JP3                          PIN HEADER     98                                
+3          R-TRIMM64W RTRIM64W R1, R2, R3                   Trimm resistor 0          X          POT         
+1   LM324D LM324D     SO14     IC1                          OP AMP         1                                 

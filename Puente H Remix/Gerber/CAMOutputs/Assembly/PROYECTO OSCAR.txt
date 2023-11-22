@@ -1,0 +1,9 @@
+Partlist exported from C:/Users/oscar/Documents/Circuitos/Puente H/PROYECTO OSCAR.sch at 14/11/2023 8:42 a. m.
+
+Qty Value Device      Package  Parts    Description                MF MPN     OC_FARNELL OC_NEWARK POPULARITY SPICEPREFIX
+1         LED5MM      LED5MM   LED1     LED                                                        93                    
+2         PINHD-1X2   1X02     JP1, JP2 PIN HEADER                                                 98                    
+1         R-US_0204/7 0204/7   R1       RESISTOR, American symbol                                  48         R          
+2         W237-102    W237-102 X1, X3   WAGO SCREW CLAMP              237-102 unknown    70K9898   32                    
+1         W237-103    W237-103 X2       WAGO SCREW CLAMP              237-103 unknown    18M7116   5                     
+1   L293D L293D       DIL16    IC1      PUSH-PULL 4 CHANNEL DRIVER    L293D   9589619    56P8249   16                    
